@@ -42,7 +42,7 @@ body {
 .imagen-dos-secciones {
   height: 700px;
   width: 50%;
-  background: url(../imagenes/imagen-dos-secciones.jpg);
+  background: url(../imagenes1/imagen-dos-secciones.jpg);
   background-size: cover;
   position: absolute;
   top: 0;
@@ -113,7 +113,7 @@ body {
 .joel{
   height: 700px;
   width: 50%;
-  background: url(../imagenes/img.png);
+  background: url(../imagenes1/img.png);
   background-size: cover;
 }
 #titulo-Hiring{
@@ -137,7 +137,7 @@ body {
 .fondo-2{
   height: 700px;
   width: 50%;
-  background: url(../imagenes/ubicacion.jpg);
+  background: url(../imagenes1/ubicacion.jpg);
   background-size: cover;
   position: absolute;
   top: 0;
